@@ -11,7 +11,8 @@ width: 100%;
 .container {
 max-width: 1300px; 
 margin: 0 auto;    
-padding: 0px 0px 0px 0px;     
+padding: 0px 0px 0px 0px;  
+
 }
 /*navigature bar*/
 .hero{
